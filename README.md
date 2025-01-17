@@ -79,4 +79,4 @@ void loop()
     lcd.setCursor(0, 1);
     lcd.print(distance);
 }
-![ultrasonic with lcd](https://github.com/user-attachments/assets/abee826a-52e8-47f4-be53-8a5548ab0a89)
+
